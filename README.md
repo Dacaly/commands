@@ -18,7 +18,7 @@
 
 * **s!help or $help [commandName]** - Display the list of commands if you just type $help or if you type $help commandName display the current command info.
 * **s!serverinfo** - Get server info.
-* **s!serverinvite [ChannelID]** - Get an invite for the server, but you must type the channelID to get the command work.
+* **s!serverinvite** - Get an invite for the server, but you must type the channelID to get the command work.
 * **s!uptime** - Get bot uptime.
 * **s!userinfo** - Get your user info.
 
