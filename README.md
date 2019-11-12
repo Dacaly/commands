@@ -8,8 +8,6 @@
 * **s!kick [user] [reason]** - Kick an user from the server.
 * **s!mute [user] [ms]** - Mute an user for a specific amount of time, you have to create a new role called mute to make the command work.
 * **s!removerole [user] [role]** - Remove a role of an user.
-* **s!setbotname [name]** - Set a name for the bot.
-* **s!setbotstatus [status]** - Set bot status.
 
 ## Games
 
