@@ -18,24 +18,9 @@
 
 * **s!help or $help [commandName]** - Display the list of commands if you just type $help or if you type $help commandName display the current command info.
 * **s!serverinfo** - Get server info.
-* **s!invite** - Get an invite for the server, but you must type the channelID to get the command work.
+* **s!invite** - Get the invite of the bot and of the server support
 * **s!uptime** - Get bot uptime.
 * **s!userinfo** - Get your user info.
-
-## Music (temporary disabled)
-
-* **s!deletetrack [PositionNumberInQueue]** - Delete a song from the queue, if you want know your current queue, just type $queue and you will get the songs.
-* **s!joinchannel** - Make the bot join in a voice channel, you must be in a voice channel.
-* **s!nowplaying** - Show the currently playing song.
-* **s!pause** - Pause the currently playing song.
-* **s!resume** - Resume the currently playing song.
-* **s!playother [StreamUrl]** - Play a stream url.
-* **s!playtube [youtubeUrl]** - Play an youtube video.
-* **s!queue** - List the songs in queue.
-* **s!skip** - Skip the current playing song.
-* **s!stop** - The bot leaves the voice channel.
-* **s!volume [Number]** - Set bot volume in the voice channel, you must type a number betweem 0-200.
-* **s!ytsearch [SongName]** hit enter then type a **number** - Search for a song on youtube, then type a number between 1-20 (or less).
 
 ## Random stuff
 
