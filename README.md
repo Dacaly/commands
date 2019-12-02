@@ -16,7 +16,7 @@
 
 ## Info
 
-* **s!help or $help [commandName]** - Display the list of commands if you just type $help or if you type $help commandName display the current command info.
+* **s!help or s!help [commandName]** - Display the list of commands if you just type s!help or if you type s!help commandName display the current command info.
 * **s!serverinfo** - Get server info.
 * **s!invite** - Get the invite of the bot and of the server support
 * **s!uptime** - Get bot uptime.
