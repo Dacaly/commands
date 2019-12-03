@@ -17,10 +17,11 @@
 ## Info
 
 * **s!help or s!help [commandName]** - Display the list of commands if you just type s!help or if you type s!help commandName display the current command info.
-* **s!serverinfo** - Get server info.
 * **s!invite** - Get the invite of the bot and of the server support
 * **s!uptime** - Get bot uptime.
 * **s!userinfo** - Get your user info.
+* **s!serverinfo** - Get server info.
+* **s!info** - Get the bot info.
 
 ## Random stuff
 
@@ -28,8 +29,9 @@
 * **s!dogs** - Find some cute dog pictures.
 * **s!flipcoin** - Flip a coin.
 * **s!google [query]** - Get 3 search queries from Google Custom Search, you need to provide in the json file called googleConfig, your Custom Search Api Key and your CX.
+* **s!meme** - Get the best memes! They are funny!
 * **s!ping** - Ping the bot.
 * **s!randomcolor** - Generates a random hex color with preview.
 * **s!rolldice** - Roll a dice.
-* **s!setafk [status]** - Set your status afk or notafk.
+* **s!afk [status]** - Set you to afk.
 * **s!weather [location]** - Get the forecast information for a location.
