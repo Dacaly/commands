@@ -9,11 +9,6 @@
 * **s!mute [user] [ms]** - Mute an user for a specific amount of time, you have to create a new role called mute to make the command work.
 * **s!removerole [user] [role]** - Remove a role of an user.
 
-## Games
-
-* **s!csgo [MySteamID]** - Get csgo stats for an user given by STEAMID64.
-* **s!csgofloat [inspect Url]** - Get informations about a skin or a weapon.
-
 ## Info
 
 * **s!help or s!help [commandName]** - Display the list of commands if you just type s!help or if you type s!help commandName display the current command info.
