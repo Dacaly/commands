@@ -23,7 +23,6 @@
 * **s!distance [latitude1] [longitude1] [latitude2] [longitude2]** - Get the distance between the sets of coordinates
 * **s!dogs** - Find some cute dog pictures.
 * **s!flipcoin** - Flip a coin.
-* **s!google [query]** - Get 3 search queries from Google Custom Search, you need to provide in the json file called googleConfig, your Custom Search Api Key and your CX.
 * **s!meme** - Get the best memes! They are funny!
 * **s!ping** - Ping the bot.
 * **s!randomcolor** - Generates a random hex color with preview.
