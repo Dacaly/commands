@@ -7,6 +7,7 @@
 * **s!clear [number]** - Delete an amount of messages, the number must be between 2 and 100.
 * **s!kick [user] [reason]** - Kick an user from the server.
 * **s!mute [user] [ms]** - Mute an user for a specific amount of time, you have to create a new role called mute to make the command work.
+* **s!prefix or s!prefix [New Prefix]** - Get the prefix of the guild. Or change the prefix to a new prefix by doing s!prefix [New Prefix].
 * **s!removerole [user] [role]** - Remove a role of an user.
 
 ## Info
