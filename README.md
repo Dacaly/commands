@@ -30,4 +30,4 @@
 * **s!randomcolor** - Generates a random hex color with preview.
 * **s!rolldice** - Roll a dice.
 * **s!afk [status]** - Set you to afk.
-* **s!weather [location]** - Get the forecast information for a location.
+* **s!wc [channel]** - Set the channel to welcome new people. s!wc none to disable!
