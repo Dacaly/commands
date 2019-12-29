@@ -15,10 +15,10 @@
 * **s!help or s!help [commandName]** - Display the list of commands if you just type s!help or if you type s!help commandName display the current command info.
 * **s!info** - Get the bot info.
 * **s!invite** - Get the invite of the bot and of the server support.
-* **s!mcinfo [server ip]** - Get info about a Minecraft server, like online players and the motd.
 * **s!uptime** - Get bot uptime.
 * **s!userinfo** - Get your user info.
-* **s!serverinfo** - Get server info.
+* **s!serverinfo** - Get info about the server.
+* **s!shardinfo** - Get info about the shards.
 
 ## Random stuff
 
